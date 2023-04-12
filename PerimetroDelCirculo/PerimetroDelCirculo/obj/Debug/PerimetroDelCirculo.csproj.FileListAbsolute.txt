@@ -1,0 +1,11 @@
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\PerimetroDelCirculo\PerimetroDelCirculo\bin\Debug\PerimetroDelCirculo.exe.config
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\PerimetroDelCirculo\PerimetroDelCirculo\bin\Debug\PerimetroDelCirculo.exe
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\PerimetroDelCirculo\PerimetroDelCirculo\bin\Debug\PerimetroDelCirculo.pdb
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\PerimetroDelCirculo\PerimetroDelCirculo\obj\Debug\PerimetroDelCirculo.csproj.AssemblyReference.cache
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\PerimetroDelCirculo\PerimetroDelCirculo\obj\Debug\PerimetroDelCirculo.csproj.SuggestedBindingRedirects.cache
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\PerimetroDelCirculo\PerimetroDelCirculo\obj\Debug\PerimetroDelCirculo.fPerimetroDelCirulo.resources
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\PerimetroDelCirculo\PerimetroDelCirculo\obj\Debug\PerimetroDelCirculo.Properties.Resources.resources
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\PerimetroDelCirculo\PerimetroDelCirculo\obj\Debug\PerimetroDelCirculo.csproj.GenerateResource.cache
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\PerimetroDelCirculo\PerimetroDelCirculo\obj\Debug\PerimetroDelCirculo.csproj.CoreCompileInputs.cache
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\PerimetroDelCirculo\PerimetroDelCirculo\obj\Debug\PerimetroDelCirculo.exe
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\PerimetroDelCirculo\PerimetroDelCirculo\obj\Debug\PerimetroDelCirculo.pdb

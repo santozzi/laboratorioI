@@ -1,0 +1,11 @@
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\Vuelto\Vuelto\bin\Debug\Vuelto.exe.config
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\Vuelto\Vuelto\bin\Debug\Vuelto.exe
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\Vuelto\Vuelto\bin\Debug\Vuelto.pdb
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\Vuelto\Vuelto\obj\Debug\Vuelto.csproj.AssemblyReference.cache
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\Vuelto\Vuelto\obj\Debug\Vuelto.csproj.SuggestedBindingRedirects.cache
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\Vuelto\Vuelto\obj\Debug\Vuelto.fVuelto.resources
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\Vuelto\Vuelto\obj\Debug\Vuelto.Properties.Resources.resources
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\Vuelto\Vuelto\obj\Debug\Vuelto.csproj.GenerateResource.cache
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\Vuelto\Vuelto\obj\Debug\Vuelto.csproj.CoreCompileInputs.cache
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\Vuelto\Vuelto\obj\Debug\Vuelto.exe
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\Vuelto\Vuelto\obj\Debug\Vuelto.pdb

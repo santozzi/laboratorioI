@@ -1,0 +1,11 @@
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\ProyectoPaises\ProyectoPaises\bin\Debug\ProyectoPaises.exe.config
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\ProyectoPaises\ProyectoPaises\bin\Debug\ProyectoPaises.exe
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\ProyectoPaises\ProyectoPaises\bin\Debug\ProyectoPaises.pdb
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\ProyectoPaises\ProyectoPaises\obj\Debug\ProyectoPaises.csproj.AssemblyReference.cache
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\ProyectoPaises\ProyectoPaises\obj\Debug\ProyectoPaises.csproj.SuggestedBindingRedirects.cache
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\ProyectoPaises\ProyectoPaises\obj\Debug\ProyectoPaises.Properties.Resources.resources
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\ProyectoPaises\ProyectoPaises\obj\Debug\ProyectoPaises.csproj.GenerateResource.cache
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\ProyectoPaises\ProyectoPaises\obj\Debug\ProyectoPaises.csproj.CoreCompileInputs.cache
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\ProyectoPaises\ProyectoPaises\obj\Debug\ProyectoPaises.exe
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\ProyectoPaises\ProyectoPaises\obj\Debug\ProyectoPaises.pdb
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\ProyectoPaises\ProyectoPaises\obj\Debug\ProyectoPaises.frmMundiMap.resources

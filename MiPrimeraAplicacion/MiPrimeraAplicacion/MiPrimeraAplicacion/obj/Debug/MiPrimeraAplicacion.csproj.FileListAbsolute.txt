@@ -1,0 +1,11 @@
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\MiPrimeraAplicacion\MiPrimeraAplicacion\MiPrimeraAplicacion\bin\Debug\MiPrimeraAplicacion.exe.config
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\MiPrimeraAplicacion\MiPrimeraAplicacion\MiPrimeraAplicacion\bin\Debug\MiPrimeraAplicacion.exe
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\MiPrimeraAplicacion\MiPrimeraAplicacion\MiPrimeraAplicacion\bin\Debug\MiPrimeraAplicacion.pdb
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\MiPrimeraAplicacion\MiPrimeraAplicacion\MiPrimeraAplicacion\obj\Debug\MiPrimeraAplicacion.csproj.AssemblyReference.cache
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\MiPrimeraAplicacion\MiPrimeraAplicacion\MiPrimeraAplicacion\obj\Debug\MiPrimeraAplicacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\MiPrimeraAplicacion\MiPrimeraAplicacion\MiPrimeraAplicacion\obj\Debug\MiPrimeraAplicacion.Form1.resources
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\MiPrimeraAplicacion\MiPrimeraAplicacion\MiPrimeraAplicacion\obj\Debug\MiPrimeraAplicacion.Properties.Resources.resources
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\MiPrimeraAplicacion\MiPrimeraAplicacion\MiPrimeraAplicacion\obj\Debug\MiPrimeraAplicacion.csproj.GenerateResource.cache
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\MiPrimeraAplicacion\MiPrimeraAplicacion\MiPrimeraAplicacion\obj\Debug\MiPrimeraAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\MiPrimeraAplicacion\MiPrimeraAplicacion\MiPrimeraAplicacion\obj\Debug\MiPrimeraAplicacion.exe
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\MiPrimeraAplicacion\MiPrimeraAplicacion\MiPrimeraAplicacion\obj\Debug\MiPrimeraAplicacion.pdb

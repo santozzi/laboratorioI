@@ -1,0 +1,11 @@
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\OcupacionDeSala\OcupacionDeSala\bin\Debug\OcupacionDeSala.exe.config
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\OcupacionDeSala\OcupacionDeSala\bin\Debug\OcupacionDeSala.exe
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\OcupacionDeSala\OcupacionDeSala\bin\Debug\OcupacionDeSala.pdb
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\OcupacionDeSala\OcupacionDeSala\obj\Debug\OcupacionDeSala.csproj.AssemblyReference.cache
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\OcupacionDeSala\OcupacionDeSala\obj\Debug\OcupacionDeSala.csproj.SuggestedBindingRedirects.cache
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\OcupacionDeSala\OcupacionDeSala\obj\Debug\OcupacionDeSala.Properties.Resources.resources
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\OcupacionDeSala\OcupacionDeSala\obj\Debug\OcupacionDeSala.csproj.GenerateResource.cache
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\OcupacionDeSala\OcupacionDeSala\obj\Debug\OcupacionDeSala.csproj.CoreCompileInputs.cache
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\OcupacionDeSala\OcupacionDeSala\obj\Debug\OcupacionDeSala.exe
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\OcupacionDeSala\OcupacionDeSala\obj\Debug\OcupacionDeSala.pdb
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\OcupacionDeSala\OcupacionDeSala\obj\Debug\OcupacionDeSala.fOcupacion.resources

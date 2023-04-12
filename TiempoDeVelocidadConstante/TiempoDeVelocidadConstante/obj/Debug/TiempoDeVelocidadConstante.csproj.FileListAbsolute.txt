@@ -1,0 +1,11 @@
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\TiempoDeVelocidadConstante\TiempoDeVelocidadConstante\bin\Debug\TiempoDeVelocidadConstante.exe.config
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\TiempoDeVelocidadConstante\TiempoDeVelocidadConstante\bin\Debug\TiempoDeVelocidadConstante.exe
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\TiempoDeVelocidadConstante\TiempoDeVelocidadConstante\bin\Debug\TiempoDeVelocidadConstante.pdb
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\TiempoDeVelocidadConstante\TiempoDeVelocidadConstante\obj\Debug\TiempoDeVelocidadConstante.csproj.AssemblyReference.cache
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\TiempoDeVelocidadConstante\TiempoDeVelocidadConstante\obj\Debug\TiempoDeVelocidadConstante.csproj.SuggestedBindingRedirects.cache
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\TiempoDeVelocidadConstante\TiempoDeVelocidadConstante\obj\Debug\TiempoDeVelocidadConstante.fTiempoDeVelociadConstante.resources
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\TiempoDeVelocidadConstante\TiempoDeVelocidadConstante\obj\Debug\TiempoDeVelocidadConstante.Properties.Resources.resources
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\TiempoDeVelocidadConstante\TiempoDeVelocidadConstante\obj\Debug\TiempoDeVelocidadConstante.csproj.GenerateResource.cache
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\TiempoDeVelocidadConstante\TiempoDeVelocidadConstante\obj\Debug\TiempoDeVelocidadConstante.csproj.CoreCompileInputs.cache
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\TiempoDeVelocidadConstante\TiempoDeVelocidadConstante\obj\Debug\TiempoDeVelocidadConstante.exe
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\TiempoDeVelocidadConstante\TiempoDeVelocidadConstante\obj\Debug\TiempoDeVelocidadConstante.pdb

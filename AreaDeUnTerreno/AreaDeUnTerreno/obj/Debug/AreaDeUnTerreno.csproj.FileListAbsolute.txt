@@ -1,0 +1,11 @@
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\AreaDeUnTerreno\AreaDeUnTerreno\bin\Debug\AreaDeUnTerreno.exe.config
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\AreaDeUnTerreno\AreaDeUnTerreno\bin\Debug\AreaDeUnTerreno.exe
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\AreaDeUnTerreno\AreaDeUnTerreno\bin\Debug\AreaDeUnTerreno.pdb
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\AreaDeUnTerreno\AreaDeUnTerreno\obj\Debug\AreaDeUnTerreno.csproj.AssemblyReference.cache
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\AreaDeUnTerreno\AreaDeUnTerreno\obj\Debug\AreaDeUnTerreno.csproj.SuggestedBindingRedirects.cache
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\AreaDeUnTerreno\AreaDeUnTerreno\obj\Debug\AreaDeUnTerreno.Properties.Resources.resources
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\AreaDeUnTerreno\AreaDeUnTerreno\obj\Debug\AreaDeUnTerreno.csproj.GenerateResource.cache
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\AreaDeUnTerreno\AreaDeUnTerreno\obj\Debug\AreaDeUnTerreno.csproj.CoreCompileInputs.cache
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\AreaDeUnTerreno\AreaDeUnTerreno\obj\Debug\AreaDeUnTerreno.exe
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\AreaDeUnTerreno\AreaDeUnTerreno\obj\Debug\AreaDeUnTerreno.pdb
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\AreaDeUnTerreno\AreaDeUnTerreno\obj\Debug\AreaDeUnTerreno.fDeterminarArea.resources

@@ -1,0 +1,8 @@
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\EjerciciosDeRepaso\EjerciciosDeRepaso\bin\Debug\EjerciciosDeRepaso.exe.config
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\EjerciciosDeRepaso\EjerciciosDeRepaso\bin\Debug\EjerciciosDeRepaso.exe
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\EjerciciosDeRepaso\EjerciciosDeRepaso\bin\Debug\EjerciciosDeRepaso.pdb
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\EjerciciosDeRepaso\EjerciciosDeRepaso\obj\Debug\EjerciciosDeRepaso.csproj.AssemblyReference.cache
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\EjerciciosDeRepaso\EjerciciosDeRepaso\obj\Debug\EjerciciosDeRepaso.csproj.SuggestedBindingRedirects.cache
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\EjerciciosDeRepaso\EjerciciosDeRepaso\obj\Debug\EjerciciosDeRepaso.csproj.CoreCompileInputs.cache
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\EjerciciosDeRepaso\EjerciciosDeRepaso\obj\Debug\EjerciciosDeRepaso.exe
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\EjerciciosDeRepaso\EjerciciosDeRepaso\obj\Debug\EjerciciosDeRepaso.pdb

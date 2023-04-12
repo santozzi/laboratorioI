@@ -1,0 +1,11 @@
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\MegaToGiga\MegaToGiga\bin\Debug\MegaToGiga.exe.config
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\MegaToGiga\MegaToGiga\bin\Debug\MegaToGiga.exe
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\MegaToGiga\MegaToGiga\bin\Debug\MegaToGiga.pdb
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\MegaToGiga\MegaToGiga\obj\Debug\MegaToGiga.csproj.AssemblyReference.cache
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\MegaToGiga\MegaToGiga\obj\Debug\MegaToGiga.csproj.SuggestedBindingRedirects.cache
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\MegaToGiga\MegaToGiga\obj\Debug\MegaToGiga.Form1.resources
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\MegaToGiga\MegaToGiga\obj\Debug\MegaToGiga.Properties.Resources.resources
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\MegaToGiga\MegaToGiga\obj\Debug\MegaToGiga.csproj.GenerateResource.cache
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\MegaToGiga\MegaToGiga\obj\Debug\MegaToGiga.csproj.CoreCompileInputs.cache
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\MegaToGiga\MegaToGiga\obj\Debug\MegaToGiga.exe
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\MegaToGiga\MegaToGiga\obj\Debug\MegaToGiga.pdb
