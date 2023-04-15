@@ -1,0 +1,11 @@
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\SumaDeDigitos\SumaDeDigitos\bin\Debug\SumaDeDigitos.exe.config
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\SumaDeDigitos\SumaDeDigitos\bin\Debug\SumaDeDigitos.exe
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\SumaDeDigitos\SumaDeDigitos\bin\Debug\SumaDeDigitos.pdb
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\SumaDeDigitos\SumaDeDigitos\obj\Debug\SumaDeDigitos.csproj.AssemblyReference.cache
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\SumaDeDigitos\SumaDeDigitos\obj\Debug\SumaDeDigitos.csproj.SuggestedBindingRedirects.cache
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\SumaDeDigitos\SumaDeDigitos\obj\Debug\SumaDeDigitos.fSumaDeDigitos.resources
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\SumaDeDigitos\SumaDeDigitos\obj\Debug\SumaDeDigitos.Properties.Resources.resources
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\SumaDeDigitos\SumaDeDigitos\obj\Debug\SumaDeDigitos.csproj.GenerateResource.cache
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\SumaDeDigitos\SumaDeDigitos\obj\Debug\SumaDeDigitos.csproj.CoreCompileInputs.cache
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\SumaDeDigitos\SumaDeDigitos\obj\Debug\SumaDeDigitos.exe
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\SumaDeDigitos\SumaDeDigitos\obj\Debug\SumaDeDigitos.pdb

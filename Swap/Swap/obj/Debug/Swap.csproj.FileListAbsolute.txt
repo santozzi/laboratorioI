@@ -1,0 +1,11 @@
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\Swap\Swap\bin\Debug\Swap.exe.config
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\Swap\Swap\bin\Debug\Swap.exe
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\Swap\Swap\bin\Debug\Swap.pdb
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\Swap\Swap\obj\Debug\Swap.csproj.AssemblyReference.cache
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\Swap\Swap\obj\Debug\Swap.csproj.SuggestedBindingRedirects.cache
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\Swap\Swap\obj\Debug\Swap.fSwap.resources
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\Swap\Swap\obj\Debug\Swap.Properties.Resources.resources
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\Swap\Swap\obj\Debug\Swap.csproj.GenerateResource.cache
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\Swap\Swap\obj\Debug\Swap.csproj.CoreCompileInputs.cache
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\Swap\Swap\obj\Debug\Swap.exe
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\Swap\Swap\obj\Debug\Swap.pdb

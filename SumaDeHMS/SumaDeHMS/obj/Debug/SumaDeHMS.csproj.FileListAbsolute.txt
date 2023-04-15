@@ -1,0 +1,11 @@
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\SumaDeHMS\SumaDeHMS\obj\Debug\SumaDeHMS.csproj.AssemblyReference.cache
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\SumaDeHMS\SumaDeHMS\obj\Debug\SumaDeHMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\SumaDeHMS\SumaDeHMS\obj\Debug\SumaDeHMS.fTiempo.resources
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\SumaDeHMS\SumaDeHMS\obj\Debug\SumaDeHMS.Properties.Resources.resources
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\SumaDeHMS\SumaDeHMS\obj\Debug\SumaDeHMS.csproj.GenerateResource.cache
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\SumaDeHMS\SumaDeHMS\obj\Debug\SumaDeHMS.csproj.CoreCompileInputs.cache
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\SumaDeHMS\SumaDeHMS\bin\Debug\SumaDeHMS.exe.config
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\SumaDeHMS\SumaDeHMS\bin\Debug\SumaDeHMS.exe
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\SumaDeHMS\SumaDeHMS\bin\Debug\SumaDeHMS.pdb
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\SumaDeHMS\SumaDeHMS\obj\Debug\SumaDeHMS.exe
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\SumaDeHMS\SumaDeHMS\obj\Debug\SumaDeHMS.pdb

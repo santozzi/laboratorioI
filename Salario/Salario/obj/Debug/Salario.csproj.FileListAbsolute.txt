@@ -1,0 +1,11 @@
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\Salario\Salario\bin\Debug\Salario.exe.config
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\Salario\Salario\bin\Debug\Salario.exe
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\Salario\Salario\bin\Debug\Salario.pdb
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\Salario\Salario\obj\Debug\Salario.csproj.AssemblyReference.cache
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\Salario\Salario\obj\Debug\Salario.csproj.SuggestedBindingRedirects.cache
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\Salario\Salario\obj\Debug\Salario.fSalario.resources
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\Salario\Salario\obj\Debug\Salario.Properties.Resources.resources
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\Salario\Salario\obj\Debug\Salario.csproj.GenerateResource.cache
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\Salario\Salario\obj\Debug\Salario.csproj.CoreCompileInputs.cache
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\Salario\Salario\obj\Debug\Salario.exe
+C:\Users\LaParka\OneDrive\Documentos\UTN\Laboratiorio I\Proyectos\Salario\Salario\obj\Debug\Salario.pdb
